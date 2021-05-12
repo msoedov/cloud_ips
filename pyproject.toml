@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "cloud_ips"
-version = "0.1.0"
+version = "0.1.1"
 description = """Fast - microsecond based cloud providers ip address lookup. GCP / AWS / Digital ocean ip ranges support
 """
 authors = ["Alexander Miasoiedov <msoedov@gmail.com>"]

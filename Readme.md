@@ -1,6 +1,6 @@
 # cloud_ips
 
-Fast - microsecond based cloud providers ip address lookup
+Fast - microsecond based cloud providers public ip address lookup
 
 ## Features
 
