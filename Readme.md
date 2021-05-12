@@ -5,6 +5,8 @@ Check if an IP address is in the ranges used by AWS/GCP/DO/Azure. It fast, micro
 ## Features
 
 - GCP / AWS / Digital ocean ip ranges support
+- 1000x faster than a brute force lookup
+- Most recent data records
 - Fully typed with annotations and checked with `mypy`, [PEP561 compatible](https://www.python.org/dev/peps/pep-0561/)
 - Easy to start: has lots of docs, tests, and tutorials
 
