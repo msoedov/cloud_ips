@@ -4,7 +4,7 @@ Fast - microsecond based cloud providers ip adress lookup
 
 ## Features
 
-- GCP / AWS / Digital ocean support ip ranges support
+- GCP / AWS / Digital ocean ip ranges support
 - Fully typed with annotations and checked with `mypy`, [PEP561 compatible](https://www.python.org/dev/peps/pep-0561/)
 - Easy to start: has lots of docs, tests, and tutorials
 
