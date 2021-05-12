@@ -1,8 +1,7 @@
 import csv
 import ipaddress
 from functools import lru_cache
-from ipaddress import IPv4Network
-from ipaddress import IPv6Network
+
 import black
 import requests
 

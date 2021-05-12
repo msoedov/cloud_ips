@@ -8,6 +8,7 @@ authors = ["Alexander Miasoiedov <msoedov@gmail.com>"]
 python = "^3.8"
 requests = "^2.25.1"
 black = "^20.8b1"
+flake8 = "3.8.3"
 
 [tool.poetry.dev-dependencies]
 

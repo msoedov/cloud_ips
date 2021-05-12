@@ -35,7 +35,6 @@ jobs:
         run: |
           poetry config virtualenvs.in-project true
           poetry install
-          poetry add flake8==3.8.3
 
       - name: Run tests
         run: |
